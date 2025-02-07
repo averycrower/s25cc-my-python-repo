@@ -1,4 +1,5 @@
 # Mondrian-Inspired Generative Art
+## Assignment 2 -  By Avery Crower
 For this week assignment, I wanted to recreate the oil painting below on python.
 
 <img src="Piet_Mondrian.jpg" width="300" alt="This is the original digital version of Piet Mondiran's oil painting">
